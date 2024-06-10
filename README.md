@@ -1,4 +1,3 @@
-# Cox's Bazar 
 ## The Ultimate Beach Destination
 - Discover the beauty, culture and adventures waiting for you on Cox's Bazar,
 - the longest natural sea beach in the world.
@@ -21,20 +20,20 @@
 # Privacy Policy
 - This privacy policy explains how we collect, use, and protect your personal information when you visit our website, use our services, or interact with us.
 - Please read this policy carefully and contact us if you have any questions or concerns.
-# What information do we collect?
+## What information do we collect?
 - We may collect the following types of information from you:
 - Personal information that you voluntarily provide to us, such as your name, email address, phone number, or other contact details.
 - Technical information that is automatically collected when you access our website, such as your IP address, browser type, device type, operating system, or other information that helps us improve our website and services.
 - Usage information that is generated when you use our website or services, such as the pages you visit, the time and duration of your visit, the links you click, or the features you use.
 - Cookies and similar technologies that are used to enhance your experience on our website, such as remembering your preferences, personalizing your content, or delivering relevant ads.
-# How do we use your information?
+## How do we use your information?
 - We may use your information for the following purposes:
 - To provide you with the website and services that you request, such as booking a resort, sending you a confirmation email, or responding to your inquiries.
 - To communicate with you about our website and services, such as sending you newsletters, updates, offers, or surveys.
 - To improve and optimize our website and services, such as analyzing user behavior, testing new features, or resolving technical issues.
 - To protect and secure our website and services, such as detecting and preventing fraud, spam, or unauthorized access.
 - To comply with our legal obligations, such as responding to lawful requests from authorities, enforcing our terms and conditions, or defending our rights and interests.
-# How do we share your information?
+## How do we share your information?
 - We may share your information with the following parties:
 - Third-party service providers that help us operate our website and services, such as hosting, payment, analytics, or marketing providers.
 - We only share your information with these providers to the extent necessary for them to perform their services for us, and we require them to protect your information and comply with applicable laws.
@@ -43,12 +42,12 @@
 - Other users or visitors of our website, if you choose to share your information publicly, such as posting a review, a comment, or a photo.
 - Please be aware that any information you share publicly may be accessed, used, or disclosed by others, and we are not responsible for their actions.
 - Law enforcement or regulatory authorities, if we are required or permitted to do so by law, such as in response to a subpoena, a court order, or a legal process.
-# How do we protect your information?
+## How do we protect your information?
 - We take reasonable measures to protect your information from unauthorized access, use, or disclosure. We use encryption, firewalls, and other security technologies to safeguard your information.
 - However, no website or service is completely secure, and we cannot guarantee that your information will be safe from hackers, breaches, or other risks.
-# How long do we keep your information?
+## How long do we keep your information?
 - We keep your information for as long as necessary to fulfill the purposes for which we collected it, or as required by law. When we no longer need your information, we delete it from our systems or anonymize it so that it cannot be linked back to you.
-# What are your choices and rights?
+## What are your choices and rights?
 - You have the following choices and rights regarding your information:
 - You can access, update, or delete your personal information by logging into your account on our website, or by contacting us at info@coxsaura.com.
 - You can opt out of receiving marketing emails from us or our partners by clicking on the unsubscribe link in the email, or by contacting us at info@coxsaura.com.
@@ -56,12 +55,12 @@
 - You can request a copy of your personal information that we hold, or ask us to transfer it to another service provider, by contacting us at info@coxsaura.com.
 - You can object to or restrict our processing of your personal information, or withdraw your consent at any time, by contacting us at info@coxsaura.com.
 - You can lodge a complaint with the relevant data protection authority if you believe that we have violated your privacy rights.
-# How do we update this policy?
+## How do we update this policy?
 - We may update this policy from time to time to reflect changes in our practices, technologies, or laws.
 - We will notify you of any material changes by posting a notice on our website, or by sending you an email.
 - Your continued use of our website or services after the update means that you accept the updated policy.
 - We encourage you to review this policy periodically to stay informed about how we collect, use, and share your information.
-# How can you contact us?
+## How can you contact us?
 - If you have any questions or comments about this policy, or if you want to exercise your choices and rights regarding your information, please contact us at:
 Cox's Aura
 [info@coxsaura.com]
