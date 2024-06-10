@@ -1,4 +1,4 @@
-# Cox's Bazar
+# Cox's Bazar 
 ## The Ultimate Beach Destination
 - Discover the beauty, culture and adventures waiting for you on Cox's Bazar,
 - the longest natural sea beach in the world.
