@@ -302,4 +302,28 @@ Cox's Aura [info@coxsaura.com]
 - You can create your profile, upload your photos, browse through other profiles, chat with your matches, and arrange your dates.
 - You can also join our offline events, such as speed dating, mixers, and parties, where you can meet and mingle with other singles in person.
 - You never know, you might find your perfect match on Cox's Bazar.
+# Aura Spa - Relax and Rejuvenate at Cox's Bazar
+- A part of Cox's Aura project - the ultimate destination for beach lovers
+# Welcome to Aura Spa
+Aura Spa is a place where you can escape the stress and chaos of everyday life and enjoy a blissful experience of relaxation and rejuvenation. 
+## Whether you are looking for a soothing massage, a refreshing facial, a manicure or pedicure, or a full-body treatment, we have something for you. Our professional and friendly staff will pamper you with the best products and techniques, and make you feel like a new person.
+# Our Services
+# Massage
+Choose from a variety of massage options, such as Swedish, deep tissue, aromatherapy, hot stone, or Thai. Our massage therapists will customize the pressure and duration to suit your needs and preferences.
+# Facial
+Treat your skin to a cleansing, exfoliating, and hydrating facial that will leave you glowing. We use natural and organic ingredients that are gentle and effective for all skin types.
+# Manicure and Pedicure
+Give your hands and feet some love with a manicure and pedicure that will make them look and feel great. We offer nail shaping, cuticle care, buffing, polishing, and massage. You can also choose from a range of colors and designs to express your personality.
+# Body Treatment
+Indulge in a body treatment that will nourish and detoxify your skin, and relax your muscles. We offer body scrubs, wraps, and masks that use ingredients such as sea salt, mud, clay, honey, and herbs.
+# Book Your Appointment
+- Ready to experience the magic of Aura Spa? Book your appointment today and enjoy a 10% discount on your first visit.
+- You can contact us at [info@coxs.com], or fill out the online form below.
+# We look forward to seeing you soon.
+- Name:
+- Email:
+- Phone:
+- Service:
+
+
 
